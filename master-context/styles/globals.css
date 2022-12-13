@@ -1,0 +1,9 @@
+* {
+  box-sizing:  border-box;
+}
+
+div {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
